@@ -1,0 +1,2 @@
+# QuoteGen
+Famous quote generator
