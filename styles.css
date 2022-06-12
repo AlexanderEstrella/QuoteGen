@@ -1,12 +1,11 @@
 body {
     background:#f1f5f8;
     color:#222;
-    height: 800vh;
+    height: 400vh;
 }
 
 
 .outer-container {
-
     text-align: center;
     background: #fff;
     padding: 1rem 2rem;
@@ -19,6 +18,5 @@ body {
 
 button {
     width: 100px;
-    
 }
 
