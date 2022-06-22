@@ -60,6 +60,10 @@ const quotes = [
     quote: "What happens next is up to you.",
     author: "Chris Sacca",
   },
+  { 
+    quote: "winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.",
+    author: "Robert T. Kiyosaki",
+  },
 ];
 function gen() {
   let arrayIndex = Math.floor(Math.random() * 13) + 1;
